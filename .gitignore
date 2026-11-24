@@ -1,0 +1,5 @@
+# Superpowers implementation scratch space
+/.superpowers/
+
+# Local checkout of end4's upstream dots
+/dotfiles/dots-hyprland/
